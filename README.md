@@ -1,2 +1,0 @@
-# ProjectDocumentation
-Описание программы
